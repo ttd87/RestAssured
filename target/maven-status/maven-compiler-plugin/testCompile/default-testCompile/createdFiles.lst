@@ -1,0 +1,5 @@
+testCases\PUT_Or_Update_A_Product.class
+testCases\GET_Or_Read_All_Products.class
+testCases\POST_Or_Create_A_Product.class
+testCases\GET_Or_Read_A_Product.class
+testCases\Delete_A_Product.class
